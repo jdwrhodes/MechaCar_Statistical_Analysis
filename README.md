@@ -23,3 +23,21 @@ This picture shows the results by lot. The first and second lot easily satisfy t
 ![Lot Summary](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/lot_summary.png 'Lot Summary')
 
 ## T-Tests on Suspension Coils
+
+The following pictures are the results of T-Tests run on difference portions of the Suspension Coils dataset.
+
+The picture below is a T-Test scross all Suspension Coil lots. It shows a p-value of 0.06028. As this is not below the 0.05 threshold, we are not able to reject the null hypothesis. 
+
+![Summary T-Test](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/summary_t_test.png 'Summary T-Test')
+
+Here we are only comparing the means of Lot 1 and the Population using the T-Test. The resulting p-value is 1. Meaning that not only are we not able to reject the null hypothesis, but given a p-value of 1 the means of Lot 1 and the Population mean are the same.
+![Lot 1 T-Test](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/t_test_lot1.png 'Lot 1 T-Test')
+
+Here for Lot 2, the p-value is 0.0672. Again, we cannot reject the null hypothesis because it is above the 0.05 threshhold. 
+![Lot 2 T-Test](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/t_test_lot2.png 'Lot 2 T-Test')
+
+Lastly in Lot 3, the p-value is 0.04168. Here we can reject the null hypothesis and state that the means of Lot 3 and the Population mean are in fact different. We have evidence of this as well with the Lot 3 mean 1496.14, compared to the population mean of 1500.
+![Lot 3 T-Test](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/t_test_lot3.png 'Lot 3 T-Test')
+
+## Study Design: MechaCar vs Competition
+
