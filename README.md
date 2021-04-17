@@ -45,7 +45,7 @@ Many car buyers value gas mileage when selecting their next vehicle. To help gau
 
 In this study, the null hypothesis is that there's no difference between the average mpg of the MechaCar and the average competitor.
 
-The statistical test I would use is a Two-Tailed T-Test, as I would want to be able to identify if there's a greater average, but if it's the same or lower as well.
+The statistical test I would use is a Two-Tailed T-Test, as I would want to be able to identify not only if there's a greater average, but if it's the same or lower as well.
 
 The data needed would be the mpg estimate of the MechaCar, as well as different mpg averages from different competitors.
 
