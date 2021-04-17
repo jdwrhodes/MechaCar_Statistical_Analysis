@@ -41,3 +41,8 @@ Lastly in Lot 3, the p-value is 0.04168. Here we can reject the null hypothesis 
 
 ## Study Design: MechaCar vs Competition
 
+An important metric in vehicles is their safety rating. Studying how the MechaCar compares to it's competition in this category would be vital in  positioning it in the marketplace. In this case, the null hypothesis would be that it's safety rating doesn't have an effect 
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
+
