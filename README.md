@@ -12,3 +12,14 @@ The picture below shows the results of a multi-linear regression analysis for th
 
 ## Summary Statistics on Suspension Coils
 
+The pictures below are the testing results for 3 lots of suspension coils. 
+
+The first picture shows the total results across all three lots. Combined they satisfy the requirement that the variance not exceed 100 PSI. Digging deeper though shows some different results.
+
+![Total Summary](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/total_summary.png 'Total Summary')
+
+This picture shows the results by lot. The first and second lot easily satisfy the variance requirement. The third lot does not, by quite the margin as well. It is 70% higher, at 170 PSI, than the requirement allows. This batch should be rejected and remanufactured to meet the variance requirement.
+
+![Lot Summary](https://raw.githubusercontent.com/jdwrhodes/MechaCar_Statistical_Analysis/main/resources/lot_summary.png 'Lot Summary')
+
+## T-Tests on Suspension Coils
